@@ -45,7 +45,7 @@ main {
 
 header img {
     max-width: 60px;
-    max-height: auto;
+    height: auto;
 }
 
 .navbar .nav-link {
